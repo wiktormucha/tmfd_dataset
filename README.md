@@ -46,7 +46,7 @@ Each line represents bounding box for one face. If there is no bounding box, ima
 
 ## Download 
 
-... 
+https://zenodo.org/record/7994645
 
 ## Terms of Use and Citation Request
 
