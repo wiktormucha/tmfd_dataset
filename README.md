@@ -3,7 +3,7 @@
 
 ![TMFD Example](/images/tmfd_example.png "TMFD frame example")
 
-[![DOI](https://zenodo.org/badge/DOI/10.1145/3523111.3523116.svg)](https://doi.org/10.1145/3523111.3523116)
+[![DOI](https://zenodo.org/badge/DOI/10.1145/3523111.3523114.svg)](https://doi.org/10.1145/3523111.3523114)
 
 TMFD Dataset addresses the lack of available depth and thermal face detection benchmarks. The corresponding depth and thermal data frames accompany each RGB image in the dataset. 
 The dataset encompasses a wide range of variations. The samples include different numbers of people in the scene, different individuals, various types of backgrounds, varying distances of measurement, and wearable accessories worn by the individuals, such as hoodies, headphones, hats, glasses, and face masks. Additionally, the dataset includes different types of illumination in the scene. The dataset is categorized into three separate groups based on the complexity and difficulty level of face detection. The first subset represents the easiest detection conditions, with images containing a single person against a simple background. The sensor is positioned close to the target. This subset consists of 781 images for each modality.
